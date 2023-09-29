@@ -11,7 +11,7 @@ Admin
 Contributing
 
 Overview
-This project is a web-based order management system that allows users to place orders and view their order history. Administrators have access to receive and update the status of executed orders. It's built to simplify the order management process for businesses.
+This Snackbar project is a web-based order management system that allows users to place orders and view their order history. Administrators have access to receive and update the status of executed orders. It's built to simplify the order management process for businesses.
 
 Features
 User Authentication: Users and administrators can log in with their credentials.
