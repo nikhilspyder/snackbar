@@ -1,4 +1,4 @@
-Project Title: Order Management Website
+Project Title: SnackBar
 Table of Contents
 Overview
 Features
